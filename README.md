@@ -26,7 +26,7 @@ The Work Day Scheduler is a web application that allows you to plan and organize
 
 ## Usage
 
-1. Visit the [Work Day Scheduler](https://your-work-day-scheduler-url.com).
+1. Visit the [Work Day Scheduler](https://alghaibb.github.io/homework-4/).
 
 2. Scroll through the time blocks representing hours of the work day.
 
